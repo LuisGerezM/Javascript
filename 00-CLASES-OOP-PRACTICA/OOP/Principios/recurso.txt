@@ -1,0 +1,18 @@
+-> http://wiki.c2.com/?DefinitionsForOo 
+
+Principal proposito OOP:
+    Crear codigo MODULAR y REUSABLE
+
+Requerimientos leng de prog para ser considerado OO
+1) Capacidad de modelar problemas a traves de objetos:
+    * asociacion: capacidad de objetos para referir a otros obj para Unirlos y Enlazarlos en codigo.
+    * agregacion: capacidad de objetos para referir a otro independiente.
+    * composicion: capacidad de obj de referir a otros objetos dependientes.
+
+2) Principios para garantizar la modularidad y la rehusabilidad de codigo:
+    * encapsulación: capacidad de concentrar datos y codigo en una sola entidad, ocultando detalles internos.
+    * herencia: mecanismo por el que un objeto peude adquirir alguna o mas caracteristicas (propiedades y metodos) de otros
+    * polimorfismo: capacidad de procesar objetos con distintos tipos de datos y estructuras, pero que pueden devolvernos una respuesta. 
+
+3) Simplificacion de la realidad --> conocida como -->> ABSTRACION:
+    - No necesariamente debemos CONOCER todos los DETALLES internos de como funciona un objeto para poder utilizarlo.
